@@ -13,6 +13,6 @@ Espero que de encontrarte con estas notas puedas sacar utilidad de al menos una 
 
 ## JavaScript - Básico
 
-- Estoy escribiéndolos en este momento, lo voy a subir y compartir tan rápido como considere que este claro y medianamente completo, mientras tanto *suena música de espera*
+- Estoy escribiéndolos en este momento, lo voy a subir y compartir tan rápido como considere que este claro y medianamente completo, mientras tanto *suena música de espera* pueden ir viendo el proceso en notion https://santiagofonzo.notion.site/Apuntes-Js-36e439b971a44a248060a489990ed96b.
 
 Gracias por pasarte 😊
